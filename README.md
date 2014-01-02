@@ -116,3 +116,7 @@ rollOut
 ## Other Resources
 
 - There's a [Ruby gem](https://github.com/camelmasa/animate-rails) available for Animate.css
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/animate_css/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
